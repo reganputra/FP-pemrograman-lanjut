@@ -1,0 +1,7 @@
+Bayu,Upn,29,Belum Menerima
+Chatrine,Upn,53,Belum Menerima
+Dhea,Upn,22,Sudah Menerima
+Prama,Upn,49,Sudah Menerima
+Regan,Upn,40,Sudah Menerima
+Rifky,Upn,19,Sudah Menerima
+Rey,Upn,43,Belum Menerima
